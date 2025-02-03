@@ -55,7 +55,7 @@ library ieee;
 -- entity name should match filename, this has been filled out for you  
 entity thirtyOneDayMonth is 
   port(
-	i_A : in std_logic; -- one of four inputs
+	i_A : in std_logic -- one of four inputs
 	
 	
 	
